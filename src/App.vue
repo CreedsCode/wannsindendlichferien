@@ -52,7 +52,30 @@
       <b-button v-on:click="reset" v-if="show" variant="primary">Bundesland wechseln</b-button>
       </transition>
     </b-container>
-
+    <br>
+    <br>
+    <footer id="footer">
+     
+        <b-container>
+    
+    <b-row align-v="center">
+        
+        <b-col> <div>
+       <b-card bg-variant="info"
+                text-variant="white"
+                header="powered by"
+                class="text-center">
+            <p class="card-text"><a href="https://robin.meis.space/2014/04/15/ferien-feiertag-api-fuer-deutschland/">Ferien / Feiertag API von Robin Meis</a></p>
+        </b-card>
+    </div></b-col>
+        
+    </b-row>
+    </b-container>
+    </footer>
+     
+   
+       
+     
   </div>
 </template>
 
@@ -103,10 +126,6 @@ export default {
   },
   watch: {
     selected: function() {
-      if (this.countdownstate) {
-        this.reset();
-      }
-
       axios
         .get(`${this.apiurl}${this.selected}`)
         .then(
@@ -144,7 +163,6 @@ export default {
       var _minute = _second * 60;
       var _hour = _minute * 60;
       var _day = _hour * 24;
-      var timer;
 
       this.distance =
         new Date(this.timestampsstart[0] * 1e3) -
@@ -153,6 +171,7 @@ export default {
       if (this.distance < 0) {
         clearInterval(this.timer);
         this.countdownstate = false;
+        this.reset();
         return;
       }
       var days = Math.floor(this.distance / _day);

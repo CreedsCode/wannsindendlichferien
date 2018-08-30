@@ -1,0 +1,588 @@
+{
+  "BB": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Brandenburg",
+        "beginn": 1517785200,
+        "ende": 1518303600
+      },
+      {
+        "title": "Osterferien 2018 Brandenburg",
+        "beginn": 1522015200,
+        "ende": 1523052000
+      },
+      {
+        "title": "Sommerferien 2018 Brandenburg",
+        "beginn": 1530741600,
+        "ende": 1534629600
+      },
+      {
+        "title": "Herbstferien 2018 Brandenburg",
+        "beginn": 1540159200,
+        "ende": 1541199600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Brandenburg",
+        "beginn": 1545346800,
+        "ende": 1546729200
+      }
+    ]
+  },
+  "NW": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Osterferien 2018 Nordrhein-Westfalen",
+        "beginn": 1522015200,
+        "ende": 1523138400
+      },
+      {
+        "title": "Pfingstferien 2018 Nordrhein-Westfalen",
+        "beginn": 1526940000,
+        "ende": 1527285600
+      },
+      {
+        "title": "Sommerferien 2018 Nordrhein-Westfalen",
+        "beginn": 1531692000,
+        "ende": 1535493600
+      },
+      {
+        "title": "Herbstferien 2018 Nordrhein-Westfalen",
+        "beginn": 1539554400,
+        "ende": 1540677600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Nordrhein-Westfalen",
+        "beginn": 1545346800,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "HE": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Osterferien 2018 Hessen",
+        "beginn": 1522015200,
+        "ende": 1523138400
+      },
+      {
+        "title": "Sommerferien 2018 Hessen",
+        "beginn": 1529877600,
+        "ende": 1533333600
+      },
+      {
+        "title": "Herbstferien 2018 Hessen",
+        "beginn": 1538344800,
+        "ende": 1539468000
+      },
+      {
+        "title": "Weihnachtsferien 2018 Hessen",
+        "beginn": 1545606000,
+        "ende": 1547334000
+      }
+    ]
+  },
+  "MV": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1517785200,
+        "ende": 1518822000
+      },
+      {
+        "title": "Osterferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1522015200,
+        "ende": 1522879200
+      },
+      {
+        "title": "Pfingstferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Pfingstferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1526594400,
+        "ende": 1527026400
+      },
+      {
+        "title": "Sommerferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1531087200,
+        "ende": 1534629600
+      },
+      {
+        "title": "Herbstferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1538949600,
+        "ende": 1539468000
+      },
+      {
+        "title": "Herbstferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1541026800,
+        "ende": 1541199600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Mecklenburg-Vorpommern",
+        "beginn": 1545606000,
+        "ende": 1546729200
+      }
+    ]
+  },
+  "BY": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Bayern",
+        "beginn": 1518390000,
+        "ende": 1518822000
+      },
+      {
+        "title": "Osterferien 2018 Bayern",
+        "beginn": 1522015200,
+        "ende": 1523138400
+      },
+      {
+        "title": "Pfingstferien 2018 Bayern",
+        "beginn": 1526940000,
+        "ende": 1527976800
+      },
+      {
+        "title": "Sommerferien 2018 Bayern",
+        "beginn": 1532901600,
+        "ende": 1536616800
+      },
+      {
+        "title": "Herbstferien 2018 Bayern",
+        "beginn": 1540767600,
+        "ende": 1541199600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Bayern",
+        "beginn": 1545433200,
+        "ende": 1546729200
+      }
+    ]
+  },
+  "HH": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Hamburg",
+        "beginn": 1517526000,
+        "ende": 1517612400
+      },
+      {
+        "title": "Osterferien 2018 Hamburg",
+        "beginn": 1520204400,
+        "ende": 1521241200
+      },
+      {
+        "title": "Pfingstferien 2018 Hamburg",
+        "beginn": 1525644000,
+        "ende": 1526076000
+      },
+      {
+        "title": "Sommerferien 2018 Hamburg",
+        "beginn": 1530741600,
+        "ende": 1534370400
+      },
+      {
+        "title": "Herbstferien 2018 Hamburg",
+        "beginn": 1538344800,
+        "ende": 1539381600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Hamburg",
+        "beginn": 1545260400,
+        "ende": 1546642800
+      },
+      {
+        "title": "Pfingstferien 2018 Hamburg",
+        "beginn": 1525039200,
+        "ende": 1525125600
+      }
+    ]
+  },
+  "SN": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Sachsen",
+        "beginn": 1518390000,
+        "ende": 1519426800
+      },
+      {
+        "title": "Osterferien 2018 Sachsen",
+        "beginn": 1522274400,
+        "ende": 1523052000
+      },
+      {
+        "title": "Pfingstferien 2018 Sachsen",
+        "beginn": 1526680800,
+        "ende": 1527026400
+      },
+      {
+        "title": "Pfingstferien 2018 Sachsen",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Sommerferien 2018 Sachsen",
+        "beginn": 1530482400,
+        "ende": 1533938400
+      },
+      {
+        "title": "Herbstferien 2018 Sachsen",
+        "beginn": 1538949600,
+        "ende": 1540072800
+      },
+      {
+        "title": "Weihnachtsferien 2018 Sachsen",
+        "beginn": 1545433200,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "BE": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Berlin",
+        "beginn": 1517785200,
+        "ende": 1518303600
+      },
+      {
+        "title": "Osterferien 2018 Berlin",
+        "beginn": 1522015200,
+        "ende": 1523052000
+      },
+      {
+        "title": "Pfingstferien 2018 Berlin",
+        "beginn": 1525039200,
+        "ende": 1525125600
+      },
+      {
+        "title": "Pfingstferien 2018 Berlin",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Pfingstferien 2018 Berlin",
+        "beginn": 1526940000,
+        "ende": 1527026400
+      },
+      {
+        "title": "Sommerferien 2018 Berlin",
+        "beginn": 1530741600,
+        "ende": 1534543200
+      },
+      {
+        "title": "Herbstferien 2018 Berlin",
+        "beginn": 1540159200,
+        "ende": 1541199600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Berlin",
+        "beginn": 1545433200,
+        "ende": 1546729200
+      }
+    ]
+  },
+  "RP": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Osterferien 2018 Rheinland-Pfalz",
+        "beginn": 1522015200,
+        "ende": 1523052000
+      },
+      {
+        "title": "Sommerferien 2018 Rheinland-Pfalz",
+        "beginn": 1529877600,
+        "ende": 1533333600
+      },
+      {
+        "title": "Herbstferien 2018 Rheinland-Pfalz",
+        "beginn": 1538344800,
+        "ende": 1539381600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Rheinland-Pfalz",
+        "beginn": 1545260400,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "SL": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Saarland",
+        "beginn": 1518390000,
+        "ende": 1518908400
+      },
+      {
+        "title": "Osterferien 2018 Saarland",
+        "beginn": 1522015200,
+        "ende": 1523052000
+      },
+      {
+        "title": "Sommerferien 2018 Saarland",
+        "beginn": 1529877600,
+        "ende": 1533333600
+      },
+      {
+        "title": "Herbstferien 2018 Saarland",
+        "beginn": 1538344800,
+        "ende": 1539381600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Saarland",
+        "beginn": 1545260400,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "HB": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Sommerferien 2018 Bremen",
+        "beginn": 1530136800,
+        "ende": 1533765600
+      },
+      {
+        "title": "Winterferien 2018 Bremen",
+        "beginn": 1517439600,
+        "ende": 1517612400
+      },
+      {
+        "title": "Osterferien 2018 Bremen",
+        "beginn": 1521414000,
+        "ende": 1522792800
+      },
+      {
+        "title": "Pfingstferien 2018 Bremen",
+        "beginn": 1525039200,
+        "ende": 1525125600
+      },
+      {
+        "title": "Pfingstferien 2018 Bremen",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Pfingstferien 2018 Bremen",
+        "beginn": 1526940000,
+        "ende": 1527026400
+      },
+      {
+        "title": "Herbstferien 2018 Bremen",
+        "beginn": 1538344800,
+        "ende": 1539468000
+      },
+      {
+        "title": "Weihnachtsferien 2018 Bremen",
+        "beginn": 1545606000,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "SH": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Osterferien 2018 Schleswig-Holstein",
+        "beginn": 1522274400,
+        "ende": 1523656800
+      },
+      {
+        "title": "Pfingstferien 2018 Schleswig-Holstein",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Sommerferien 2018 Schleswig-Holstein",
+        "beginn": 1531087200,
+        "ende": 1534629600
+      },
+      {
+        "title": "Herbstferien 2018 Schleswig-Holstein",
+        "beginn": 1538344800,
+        "ende": 1539986400
+      },
+      {
+        "title": "Weihnachtsferien 2018 Schleswig-Holstein",
+        "beginn": 1545346800,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "ST": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Sachsen-Anhalt",
+        "beginn": 1517785200,
+        "ende": 1518217200
+      },
+      {
+        "title": "Osterferien 2018 Sachsen-Anhalt",
+        "beginn": 1522015200,
+        "ende": 1522533600
+      },
+      {
+        "title": "Osterferien 2018 Sachsen-Anhalt",
+        "beginn": 1525039200,
+        "ende": 1525125600
+      },
+      {
+        "title": "Pfingstferien 2018 Sachsen-Anhalt",
+        "beginn": 1525989600,
+        "ende": 1526767200
+      },
+      {
+        "title": "Sommerferien 2018 Sachsen-Anhalt",
+        "beginn": 1530136800,
+        "ende": 1533765600
+      },
+      {
+        "title": "Herbstferien 2018 Sachsen-Anhalt",
+        "beginn": 1538344800,
+        "ende": 1539381600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Sachsen-Anhalt",
+        "beginn": 1545174000,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "BW": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Osterferien 2018 Baden-Württemberg",
+        "beginn": 1522015200,
+        "ende": 1523052000
+      },
+      {
+        "title": "Pfingstferien 2018 Baden-Württemberg",
+        "beginn": 1526940000,
+        "ende": 1527976800
+      },
+      {
+        "title": "Sommerferien 2018 Baden-Württemberg",
+        "beginn": 1532556000,
+        "ende": 1536444000
+      },
+      {
+        "title": "Herbstferien 2018 Baden-Württemberg",
+        "beginn": 1540767600,
+        "ende": 1541199600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Baden-Württemberg",
+        "beginn": 1545606000,
+        "ende": 1546729200
+      }
+    ]
+  },
+  "TH": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Thüringen",
+        "beginn": 1517785200,
+        "ende": 1518217200
+      },
+      {
+        "title": "Osterferien 2018 Thüringen",
+        "beginn": 1522015200,
+        "ende": 1523138400
+      },
+      {
+        "title": "Pfingstferien 2018 Thüringen",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Sommerferien 2018 Thüringen",
+        "beginn": 1530482400,
+        "ende": 1534024800
+      },
+      {
+        "title": "Herbstferien 2018 Thüringen",
+        "beginn": 1538344800,
+        "ende": 1539468000
+      },
+      {
+        "title": "Weihnachtsferien 2018 Thüringen",
+        "beginn": 1545346800,
+        "ende": 1546642800
+      }
+    ]
+  },
+  "NI": {
+    "error": 0,
+    "jahr": "2018",
+    "daten": [
+      {
+        "title": "Winterferien 2018 Niedersachsen",
+        "beginn": 1517439600,
+        "ende": 1517612400
+      },
+      {
+        "title": "Osterferien 2018 Niedersachsen",
+        "beginn": 1521414000,
+        "ende": 1522792800
+      },
+      {
+        "title": "Pfingstferien 2018 Niedersachsen",
+        "beginn": 1525039200,
+        "ende": 1525125600
+      },
+      {
+        "title": "Pfingstferien 2018 Niedersachsen",
+        "beginn": 1525989600,
+        "ende": 1526076000
+      },
+      {
+        "title": "Pfingstferien 2018 Niedersachsen",
+        "beginn": 1526940000,
+        "ende": 1527026400
+      },
+      {
+        "title": "Sommerferien 2018 Niedersachsen",
+        "beginn": 1530136800,
+        "ende": 1533765600
+      },
+      {
+        "title": "Herbstferien 2018 Niedersachsen",
+        "beginn": 1538344800,
+        "ende": 1539381600
+      },
+      {
+        "title": "Weihnachtsferien 2018 Niedersachsen",
+        "beginn": 1545606000,
+        "ende": 1546642800
+      }
+    ]
+  }
+}
