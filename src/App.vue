@@ -102,7 +102,7 @@ export default {
       timestampend: [],
       ferienname: [],
       selected: null,
-      apiurl: "https://api.smartnoob.de/ferien/v1/ferien/?bundesland=",
+      apiurl: "http://localhost:1521/",
       options: [
         { value: null, text: "Wähle dein Bundesland" },
         { value: "BW", text: "Baden-Württemberg" },
