@@ -80,12 +80,12 @@
 </template>
 
 <script>
-const axios = require("axios");
-
+import json from "../json/db.json";
 export default {
   name: "app",
   data() {
     return {
+      db: json,
       show: false,
       isHidden: false,
       timerhollyday: null,
@@ -102,7 +102,7 @@ export default {
       timestampend: [],
       ferienname: [],
       selected: null,
-      apiurl: "http://localhost:1521/",
+
       options: [
         { value: null, text: "Wähle dein Bundesland" },
         { value: "BW", text: "Baden-Württemberg" },
@@ -126,30 +126,21 @@ export default {
   },
   watch: {
     selected: function() {
-      axios
-        .get(`${this.apiurl}${this.selected}`)
-        .then(
-          function(response) {
-            for (var i = 0; i < response.data.daten.length; i++) {
-              if (response.data.daten[i].beginn > this.currentdaystamp) {
-                this.timestampsstart.push(response.data.daten[i].beginn);
-                this.ferienname.push(response.data.daten[i].title);
-                this.timestampend.push(response.data.daten[i].ende);
-              }
-            }
-            this.timerhollyday = this.cuthollydays();
-            this.timer = setInterval(this.showRemainingto, 1000);
-          }.bind(this)
-        )
-        .catch(function(error) {
-          console.log(error);
-        });
+      for (var i = 0; i < this.db[this.selected].daten.length; i++) {
+        if (this.db[this.selected].daten[i].beginn > this.currentdaystamp) {
+          this.timestampsstart.push(this.db[this.selected].daten[i].beginn);
+          this.ferienname.push(this.db[this.selected].daten[i].title);
+          this.timestampend.push(this.db[this.selected].daten[i].ende);
+        }
+      }
+      this.timerhollyday = this.cuthollydays();
+      this.timer = setInterval(this.showRemainingto, 1000);
     }
   },
   methods: {
     activate() {
       setTimeout(() => (this.isHidden = true), 10);
-      setTimeout(() => (this.show = true), 1520);
+      setTimeout(() => (this.show = true), 1000);
     },
     reset: function() {
       location.reload();
